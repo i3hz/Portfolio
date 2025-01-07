@@ -44,12 +44,12 @@ I thrive on building intelligent solutions that drive decision-making, enhance u
   - Focused on token management and caching to improve cost efficiency and performance.  
 
 #### **AI Developer**  
-*Small Project*  
+*College Project*  
 - Created a **disease detection system** using TensorFlow and Flask, delivering real-time predictions with an intuitive web-based interface.  
 - Applied feature engineering and model optimization techniques to improve classification accuracy on medical datasets.  
 
 #### **Machine Learning Intern**  
-*Company Name*  
+*Herbs Magic*  
 - Worked on an **imbalanced classification problem**, developing strategies like SMOTE and cost-sensitive learning to enhance model performance.  
 - Implemented automated model tuning with GridSearchCV and Bayesian optimization for hyperparameter selection.  
 
